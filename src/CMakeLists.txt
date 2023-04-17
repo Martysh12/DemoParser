@@ -1,5 +1,7 @@
 set(SOURCES
     main.cpp
+    demofile.cpp
+    demoheader.cpp
 )
 
 add_executable(demoparse ${SOURCES})
